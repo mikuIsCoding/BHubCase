@@ -1,5 +1,5 @@
 # BHubCase
-Esse projeto tem por objetivo criar uma API simplificada de gerenciamento e armazenamento de regras de negócio para um sistema de pagamentos. 
+Esse projeto tem por objetivo criar uma API simplificada de gerenciamento e armazenamento de regras de negócio para um sistema de pagamentos.
 
 ## Tecnologias utilizadas:
 - Flask
@@ -8,6 +8,7 @@ Esse projeto tem por objetivo criar uma API simplificada de gerenciamento e arma
 - Postman (testes)
 
 ## Problema
+
 <img width="959" alt="Screenshot 2023-10-03 at 15 05 37" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/3f24aa4e-54b6-49f9-a9db-649dbc072162">
 
 ## Solução
