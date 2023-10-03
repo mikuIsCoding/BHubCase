@@ -9,27 +9,33 @@ Esse projeto tem por objetivo criar uma API simplificada de gerenciamento e arma
 
 ## Problema
 
-<img width="959" alt="Screenshot 2023-10-03 at 15 05 37" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/3f24aa4e-54b6-49f9-a9db-649dbc072162">
+<img width="959" alt="Screenshot 2023-10-03 at 15 05 37" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/c9435d30-3854-454d-87c7-7fbc78a749e4">
+
 
 ## Solução
 
-![Blank diagram - Page 1 (1)](https://github.com/mikuIsCoding/BHubCase/assets/146866917/1b62a8e2-3ffd-4039-85f8-8b577f23152a)
+![Blank diagram - Page 1 (1)](https://github.com/mikuIsCoding/BHubCase/assets/146866917/dcf6534b-8e54-48cb-8a95-b84c5d8bcabc)
+
 
 
 ## Testes
 - Consulte todas as regras disponíveis no sistema
-<img width="852" alt="Screenshot 2023-10-03 at 15 34 41" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/ae3f35d0-6253-4b95-813c-4b2b5b41d2e6">
+
+<img width="852" alt="Screenshot 2023-10-03 at 15 34 41" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/d9594800-791e-47d9-8d74-cd2661e359f5">
 
 
 - Consulte uma regra por id
-<img width="855" alt="Screenshot 2023-10-03 at 15 34 58" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/ca5afcde-a356-4195-a4f7-db18df179002">
+
+<img width="855" alt="Screenshot 2023-10-03 at 15 34 58" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/86cb6073-ed07-4d86-ace4-9e0fb9960825">
 
 
 - Atualize o conteúdo de uma regra por id
-<img width="853" alt="Screenshot 2023-10-03 at 15 35 22" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/f3ae13a9-84ce-462d-847b-33a02c0adebd">
+
+<img width="853" alt="Screenshot 2023-10-03 at 15 35 22" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/3f28e164-fb51-4cee-853c-831cb68610be">
 
 
 - Crie uma nova regra
-<img width="863" alt="Screenshot 2023-10-03 at 15 38 47" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/22a9c4a4-02b0-4612-86c8-09af43a4070d">
+<img width="863" alt="Screenshot 2023-10-03 at 15 38 47" src="https://github.com/mikuIsCoding/BHubCase/assets/146866917/648db26e-20f0-4c2b-a573-a3688b299563">
+
 
 
